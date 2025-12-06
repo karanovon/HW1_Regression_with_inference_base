@@ -48,3 +48,5 @@
 
 Ссылка на приложение:
 https://hw1regressionwithinferencebase-asvm4bzqvjannabkncvrwn.streamlit.app/
+
+<span style="color: orange; font-weight: bold">Для тестирования загрузки csv-файла необходимо использовать `data/df_test.csv`</span>
