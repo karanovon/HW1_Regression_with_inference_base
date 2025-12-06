@@ -46,6 +46,11 @@
 - Запрос csv-файла с признаками объектов для формирования прогноза
 - Визуализация весов обученной модели
 
+Локальный запуск:
+```bash
+streamlit run app.py
+```
+
 Ссылка на приложение:
 https://hw1regressionwithinferencebase-asvm4bzqvjannabkncvrwn.streamlit.app/
 
